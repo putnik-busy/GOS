@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-eb00e826d1f9a1735e76752022a69e859b0acea6.jar" />
+    </item>
+    <item
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -21,13 +28,6 @@
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
         <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\classes-470e2500ebbe403db70351da35920b542d5b0ddf.jar" />
-    </item>
-    <item
-        jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-eb00e826d1f9a1735e76752022a69e859b0acea6.jar" />
     </item>
 
 </items>
