@@ -21,5 +21,6 @@ public abstract class SingleFragmentActivity extends FragmentActivity{
                     .add(R.id.fragmentContainerPredmet,fragment)
                     .commit();
         }
+
     }
 }

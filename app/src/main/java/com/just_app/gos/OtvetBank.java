@@ -1,8 +1,6 @@
 package com.just_app.gos;
 
-
 import android.content.Context;
-
 import java.util.ArrayList;
 import java.util.UUID;
 
@@ -11,24 +9,18 @@ public class OtvetBank {
     private static OtvetBank sOtvetBank;
     private Context mAppContext;
 
-    private ListTem[] listTems = new ListTem[]{
-            new ListTem(R.string.tema_1),
-            new ListTem(R.string.tema_2),
-    };
-    private int mIndex=0;
 
     private  OtvetBank (Context mAppContext){
         this.mAppContext=mAppContext;
         mOtvet= new ArrayList<Otvet>();
 
+       String[] algebra = mAppContext.getResources().getStringArray(R.array.algebra);
 
-
-        for(int i=0; i<10;i++){
+        for(int i=0; i<algebra.length;i++){
             Otvet c = new Otvet();
-            c.setmTitle("Предмет №" + i);
+            c.setmTitle(algebra[i]);
             mOtvet.add(c);
         }
-
     }
 
     public static OtvetBank get(Context c){
@@ -47,4 +39,7 @@ public class OtvetBank {
         }
         return null;
     }
+
+
+
 }

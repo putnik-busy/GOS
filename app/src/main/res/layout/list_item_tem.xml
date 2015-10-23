@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical">
 
-    <Button
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/predmet_title"
-        android:text="@string/predmet_2"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        android:id="@+id/tem_title"
+        android:textStyle="bold"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="tem title"
+        android:paddingTop="4dp"
+        android:textSize="18sp"/>
 
 </LinearLayout>
