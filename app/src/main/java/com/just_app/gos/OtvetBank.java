@@ -32,7 +32,7 @@ public class OtvetBank {
     public ArrayList<Otvet> getOtvet(){
         return  mOtvet;
     }
-    public Otvet getOtvet(UUID id){
+    public Otvet getOtvets(UUID id){
         for(Otvet c:mOtvet){
             if (c.getmID().equals(id))
                 return c;

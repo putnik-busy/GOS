@@ -27,5 +27,4 @@ public class Otvet {
     public void setmTitle(String mTitle) {
         this.mTitle = mTitle;
     }
-
 }

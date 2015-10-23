@@ -21,9 +21,7 @@ public class OtvetListFragment extends ListFragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getActivity().setTitle(R.string.predmet_title);
-        String[] algebra = getResources().getStringArray(R.array.algebra);
         mOtvet =OtvetBank.get(getActivity()).getOtvet();
-
         TemAdapter adapter = new TemAdapter(mOtvet);
         setListAdapter(adapter);
 
@@ -34,6 +32,9 @@ public class OtvetListFragment extends ListFragment {
     public void onListItemClick(ListView l, View v, int position, long id) {
         Otvet c = ((TemAdapter)getListAdapter()).getItem(position);
 
+        Intent i = new Intent(getActivity(),TitleOtvetActivity.class);
+        i.putExtra(TitleOtvetFragment.EXTRA_TEM_ID,c.getmID());
+        startActivity(i);
     }
 
     private class TemAdapter extends  ArrayAdapter<Otvet>{
