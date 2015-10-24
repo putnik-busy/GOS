@@ -46,4 +46,17 @@
         <item>22)Область определения бета и гамма функций Эйлера.</item>
     </string-array>
 
+    //Математический анализ
+    <string-array name="matan">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    //ответы алгебра и геометрия
+    <string-array name="algebra_title">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
 </resources>

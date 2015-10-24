@@ -7,9 +7,26 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/predmet_title"
+        android:id="@+id/predmet_1"
+        android:text="@string/predmet_1"
+        android:layout_margin="16dp"
+        style="?android:segmentedButtonStyle" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/predmet_2"
         android:text="@string/predmet_2"
         android:layout_margin="16dp"
         style="?android:segmentedButtonStyle" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/predmet_3"
+        android:text="@string/predmet_3"
+        android:layout_margin="16dp"
+        style="?android:segmentedButtonStyle" />
+
 
 </LinearLayout>

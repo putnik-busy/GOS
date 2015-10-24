@@ -1,20 +1,27 @@
 package com.just_app.gos;
 
 import android.content.Context;
+import android.content.res.Resources;
+import android.os.Bundle;
+
 import java.util.ArrayList;
 import java.util.UUID;
 
 public class OtvetBank {
-    private ArrayList<Otvet> mOtvet;
+
     private static OtvetBank sOtvetBank;
     private Context mAppContext;
+
+    private ArrayList<Otvet> mOtvet;
 
 
     private  OtvetBank (Context mAppContext){
         this.mAppContext=mAppContext;
         mOtvet= new ArrayList<Otvet>();
 
-       String[] algebra = mAppContext.getResources().getStringArray(R.array.algebra);
+        String[] algebra = mAppContext.getResources().getStringArray(R.array.algebra);
+        String[] matan = mAppContext.getResources().getStringArray(R.array.matan);
+
 
         for(int i=0; i<algebra.length;i++){
             Otvet c = new Otvet();
@@ -22,6 +29,8 @@ public class OtvetBank {
             mOtvet.add(c);
         }
     }
+
+
 
     public static OtvetBank get(Context c){
         if (sOtvetBank==null){
@@ -39,7 +48,6 @@ public class OtvetBank {
         }
         return null;
     }
-
 
 
 }

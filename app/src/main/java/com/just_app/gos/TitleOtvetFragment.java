@@ -18,22 +18,12 @@ import java.util.UUID;
 
 public class TitleOtvetFragment extends Fragment {
     private WebView mWebView;
+    private TextView mText;
     public static final String EXTRA_TEM_ID =
             "com.just_app.gos.tem_id";
     private   Otvet mOtvet;
+    private Desc mDesc;
 
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        Bundle arguments = getArguments();
-        if (arguments!=null) {
-            UUID uuid = arguments.getSerializable(EXTRA_TEM_ID);
-        }
-        }
-        UUID temId = (UUID)getArguments().getSerializable(EXTRA_TEM_ID);
-        mOtvet=OtvetBank.get(getActivity()).getOtvets(temId);
-
-    }
     public static TitleOtvetFragment newInstance(UUID temId) {
         Bundle args = new Bundle();
         args.putSerializable(EXTRA_TEM_ID, temId);
@@ -43,12 +33,25 @@ public class TitleOtvetFragment extends Fragment {
     }
 
     @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        UUID temId = (UUID)getArguments().getSerializable(EXTRA_TEM_ID);
+
+        mOtvet=OtvetBank.get(getActivity()).getOtvets(temId);
+
+    }
+
+    @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.title_otvet_fragment, container, false);
 
         mWebView = (WebView)v.findViewById(R.id.otvet_title);
-        mWebView.loadUrl("file:///android_asset/1.htm");
+        mText = (TextView)v.findViewById(R.id.ot_title);
+       mText.setText(mOtvet.getmTitle());
+       // mText.setText(mDesc.getmDesc());
+      // mWebView.loadUrl(mDesc.toString());
         return v;
     }
 }

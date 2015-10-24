@@ -6,6 +6,10 @@ public class OtvetListActivity extends  SingleFragmentActivity{
 
     @Override
     protected Fragment createFragment() {
-        return new OtvetListFragment();
+
+        int predmetId=(int)getIntent()
+                .getSerializableExtra(OtvetListFragment.EXTRA_ANSWER_ID);
+
+        return OtvetListFragment.newInstance(predmetId);
     }
 }
