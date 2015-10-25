@@ -19,6 +19,7 @@ public class OtvetBank {
         this.mAppContext=mAppContext;
         mOtvet= new ArrayList<Otvet>();
 
+
         String[] algebra = mAppContext.getResources().getStringArray(R.array.algebra);
         String[] matan = mAppContext.getResources().getStringArray(R.array.matan);
 
@@ -30,8 +31,6 @@ public class OtvetBank {
         }
     }
 
-
-
     public static OtvetBank get(Context c){
         if (sOtvetBank==null){
             sOtvetBank=new OtvetBank(c.getApplicationContext());
@@ -41,6 +40,7 @@ public class OtvetBank {
     public ArrayList<Otvet> getOtvet(){
         return  mOtvet;
     }
+
     public Otvet getOtvets(UUID id){
         for(Otvet c:mOtvet){
             if (c.getmID().equals(id))
@@ -48,6 +48,7 @@ public class OtvetBank {
         }
         return null;
     }
+
 
 
 }

@@ -13,6 +13,7 @@ public class PredmetFragment extends Fragment {
     private Button mButton1;
     private Button mButton2;
     private Button mButton3;
+    private   Otvet mId;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -28,6 +29,7 @@ public class PredmetFragment extends Fragment {
         mButton1=(Button)v.findViewById(R.id.predmet_1);
         mButton2=(Button)v.findViewById(R.id.predmet_2);
         mButton3=(Button)v.findViewById(R.id.predmet_3);
+
 
       View.OnClickListener onClickListener = new View.OnClickListener() {
           @Override

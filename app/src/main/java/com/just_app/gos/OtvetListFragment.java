@@ -18,7 +18,9 @@ import java.util.UUID;
 public class OtvetListFragment extends ListFragment {
     private static final String TAG = "OtvetListFragment";
     private ArrayList<Otvet> mOtvet;
-    private Integer mButtonId;
+    private int mButtonId;
+    private   Otvet mSetId;
+    private   Otvet mGetId;
 
     public static final String EXTRA_ANSWER_ID =
             "com.just_app.gos.answer_1";

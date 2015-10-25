@@ -12,8 +12,6 @@ import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.widget.TextView;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.UUID;
 
 public class TitleOtvetFragment extends Fragment {
@@ -37,7 +35,6 @@ public class TitleOtvetFragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         UUID temId = (UUID)getArguments().getSerializable(EXTRA_TEM_ID);
-
         mOtvet=OtvetBank.get(getActivity()).getOtvets(temId);
 
     }
