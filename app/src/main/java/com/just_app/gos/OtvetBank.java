@@ -11,25 +11,22 @@ public class OtvetBank {
 
     private static OtvetBank sOtvetBank;
     private Context mAppContext;
-    private Otvet mNamePredmet;
-
     private ArrayList<Otvet> mOtvet;
-
 
     private  OtvetBank (Context mAppContext){
         this.mAppContext=mAppContext;
         mOtvet= new ArrayList<Otvet>();
+        /*Otvet mNamePredmet = new Otvet();
 
-        // получил название предмета     mNamePredmet.getmNamePredmet();
 
-        String[] algebra = mAppContext.getResources().getStringArray(R.array.algebra);
         String[] matan = mAppContext.getResources().getStringArray(R.array.matan);
         String[] inform = mAppContext.getResources().getStringArray(R.array.inform);
 
-      /*  String[] vrem;
+        String[] vrem;
+
         if (mNamePredmet.getmNamePredmet().equals("algebra"))
             vrem=algebra;*/
-
+        String[] algebra = mAppContext.getResources().getStringArray(R.array.algebra);
         for(int i=0; i<algebra.length;i++){
             Otvet c = new Otvet();
             c.setmTitle(algebra[i]);

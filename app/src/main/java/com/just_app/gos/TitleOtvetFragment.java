@@ -37,9 +37,6 @@ public class TitleOtvetFragment extends Fragment {
         super.onCreate(savedInstanceState);
         String mName=(String) getArguments().getSerializable(EXTRA_PREDMET_ID);
         UUID temId = (UUID)getArguments().getSerializable(EXTRA_TEM_ID);
-        int arrid=getActivity().getResources().getIdentifier(mName,"array",
-                getActivity().getPackageName());
-       // int arrId=this.getResources().getIdentifier()
         mOtvet=OtvetBank.get(getActivity()).getOtvets(temId);
 
     }
@@ -51,7 +48,7 @@ public class TitleOtvetFragment extends Fragment {
 
         mWebView = (WebView)v.findViewById(R.id.otvet_title);
         mText = (TextView)v.findViewById(R.id.ot_title);
-       mText.setText(mOtvet.getmTitle());
+//       mText.setText(mOtvet.getmTitle());
        // mText.setText(mDesc.getmDesc());
       // mWebView.loadUrl(mDesc.toString());
         return v;
