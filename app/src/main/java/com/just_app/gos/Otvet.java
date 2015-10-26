@@ -6,7 +6,7 @@ import java.util.UUID;
 public class Otvet {
     private UUID mID;
     private String mTitle;
-    private int mButtonId;
+    private String mNamePredmet;
 
     public Otvet(){
         mID=UUID.randomUUID();
@@ -29,11 +29,11 @@ public class Otvet {
         this.mTitle = mTitle;
     }
 
-    public Integer getmButtonId() {
-        return mButtonId;
+    public String getmNamePredmet() {
+        return mNamePredmet;
     }
 
-    public void setmButtonId(int mButtonId) {
-        this.mButtonId = mButtonId;
+    public void setmNamePredmet(String mNamePredmet) {
+        this.mNamePredmet = mNamePredmet;
     }
 }

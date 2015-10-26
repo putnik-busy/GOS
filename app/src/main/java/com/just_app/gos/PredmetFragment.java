@@ -13,12 +13,10 @@ public class PredmetFragment extends Fragment {
     private Button mButton1;
     private Button mButton2;
     private Button mButton3;
-    private   Otvet mId;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
     }
 
     @Override
@@ -36,18 +34,23 @@ public class PredmetFragment extends Fragment {
           public void onClick(View v) {
               switch (v.getId()){
                   case R.id.predmet_1:
+                      Otvet mNamePredmet1= new Otvet();
+                      mNamePredmet1.setmNamePredmet("matan");
                       Intent i = new Intent(getActivity(),OtvetListActivity.class);
-                      i.putExtra(OtvetListFragment.EXTRA_ANSWER_ID,R.id.predmet_1);
                       startActivity(i);
                       break;
                   case R.id.predmet_2:
+                      Otvet mNamePredmet2= new Otvet();
+                      mNamePredmet2.setmNamePredmet("algebra");
                       Intent j = new Intent(getActivity(),OtvetListActivity.class);
-                      j.putExtra(OtvetListFragment.EXTRA_ANSWER_ID, R.id.predmet_2);
+                      //j.putExtra(OtvetListFragment.EXTRA_ANSWER_ID, R.id.predmet_2);
                       startActivity(j);
                       break;
                   case R.id.predmet_3:
+                      Otvet mNamePredmet3= new Otvet();
+                      mNamePredmet3.setmNamePredmet("inform");
                       Intent a = new Intent(getActivity(),OtvetListActivity.class);
-                      a.putExtra(OtvetListFragment.EXTRA_ANSWER_ID,R.id.predmet_3);
+                      //a.putExtra(OtvetListFragment.EXTRA_ANSWER_ID,R.id.predmet_3);
                       startActivity(a);
                       break;
               }

@@ -18,30 +18,16 @@ import java.util.UUID;
 public class OtvetListFragment extends ListFragment {
     private static final String TAG = "OtvetListFragment";
     private ArrayList<Otvet> mOtvet;
-    private int mButtonId;
-    private   Otvet mSetId;
-    private   Otvet mGetId;
+    private String mNamePredmet;
+    private   Otvet mGetName;
 
     public static final String EXTRA_ANSWER_ID =
             "com.just_app.gos.answer_1";
-
-    public static OtvetListFragment newInstance(int predmetId) {
-        Bundle args = new Bundle();
-        args.putSerializable(EXTRA_ANSWER_ID, predmetId);
-        OtvetListFragment  fragment = new OtvetListFragment ();
-        fragment.setArguments(args);
-        return fragment;
-    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getActivity().setTitle(R.string.predmet_title);
-
-        Bundle bundle = getActivity().getIntent().getExtras();
-        if(bundle!=null){
-            mButtonId=bundle.getInt(EXTRA_ANSWER_ID);
-        }
 
         mOtvet =OtvetBank.get(getActivity()).getOtvet();
 
@@ -50,13 +36,16 @@ public class OtvetListFragment extends ListFragment {
 
     }
 
-
     @Override
     public void onListItemClick(ListView l, View v, int position, long id) {
         Otvet c = ((TemAdapter)getListAdapter()).getItem(position);
+        mNamePredmet=mGetName.getmNamePredmet();
 
         Intent i = new Intent(getActivity(),TitleOtvetActivity.class);
         i.putExtra(TitleOtvetFragment.EXTRA_TEM_ID,c.getmID());
+
+        i.putExtra(TitleOtvetFragment.EXTRA_PREDMET_ID,mNamePredmet);
+
         startActivity(i);
     }
 

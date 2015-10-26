@@ -10,6 +10,12 @@ public class TitleOtvetActivity extends SingleFragmentActivity {
     protected Fragment createFragment() {
         UUID temId=(UUID)getIntent()
                 .getSerializableExtra(TitleOtvetFragment.EXTRA_TEM_ID);
-        return TitleOtvetFragment.newInstance(temId);
+
+        String mNamePredmet = (String) getIntent().
+                getSerializableExtra(TitleOtvetFragment.EXTRA_PREDMET_ID);
+
+        return TitleOtvetFragment.newInstance(temId,mNamePredmet);
+
+
     }
 }

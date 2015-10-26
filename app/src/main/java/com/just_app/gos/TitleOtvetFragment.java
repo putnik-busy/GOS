@@ -19,12 +19,14 @@ public class TitleOtvetFragment extends Fragment {
     private TextView mText;
     public static final String EXTRA_TEM_ID =
             "com.just_app.gos.tem_id";
+    public static final String EXTRA_PREDMET_ID =
+            "com.just_app.gos.predmet_id";
     private   Otvet mOtvet;
-    private Desc mDesc;
 
-    public static TitleOtvetFragment newInstance(UUID temId) {
+    public static TitleOtvetFragment newInstance(UUID temId, String mNamePredmet) {
         Bundle args = new Bundle();
         args.putSerializable(EXTRA_TEM_ID, temId);
+        args.putSerializable(EXTRA_PREDMET_ID,mNamePredmet);
         TitleOtvetFragment fragment = new TitleOtvetFragment();
         fragment.setArguments(args);
         return fragment;
@@ -33,8 +35,11 @@ public class TitleOtvetFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        String mName=(String) getArguments().getSerializable(EXTRA_PREDMET_ID);
         UUID temId = (UUID)getArguments().getSerializable(EXTRA_TEM_ID);
+        int arrid=getActivity().getResources().getIdentifier(mName,"array",
+                getActivity().getPackageName());
+       // int arrId=this.getResources().getIdentifier()
         mOtvet=OtvetBank.get(getActivity()).getOtvets(temId);
 
     }
