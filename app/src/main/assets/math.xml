@@ -1,0 +1,11 @@
+{
+"name": "math",
+"questions": [{
+"question": "what is your name?",
+"answer": "name"
+},
+{
+"question": "what is your surnname?",
+"answer": "surnname"
+}]
+}
