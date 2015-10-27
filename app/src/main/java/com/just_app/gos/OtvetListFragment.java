@@ -20,16 +20,17 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 public class OtvetListFragment extends ListFragment {
+    public static final String EXTRA_FILENAME =
+            "com.just_app.gos.answer_1";
     private ArrayList<Otvet> mOtvet;
     private  Subject mSubject;
 
-    public static final String EXTRA_FILENAME =
-            "com.just_app.gos.answer_1";
 
-    public static TitleOtvetFragment newInstance(String filename) {
+
+    public static OtvetListFragment newInstance(String filename) {
         Bundle args = new Bundle();
         args.putSerializable(EXTRA_FILENAME, filename);
-        TitleOtvetFragment fragment = new TitleOtvetFragment();
+        OtvetListFragment fragment = new OtvetListFragment();
         fragment.setArguments(args);
         return fragment;
     }
@@ -56,7 +57,7 @@ public class OtvetListFragment extends ListFragment {
 
         mOtvet =OtvetBank.get(getActivity()).getOtvet();
 
-        TemAdapter adapter = new TemAdapter(mSubject.questions);
+       TemAdapter adapter = new TemAdapter(mSubject.questions);
         Log.d("Test", String.valueOf(mSubject.questions.size()));
         setListAdapter(adapter);
 
@@ -71,7 +72,8 @@ public class OtvetListFragment extends ListFragment {
         startActivity(i);
     }
 
-    private class TemAdapter extends  ArrayAdapter<Question>{
+
+     private class TemAdapter extends  ArrayAdapter<Question>{
 
         public TemAdapter(ArrayList<Question> otvets){
             super(getActivity(),0,otvets);

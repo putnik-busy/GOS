@@ -6,6 +6,7 @@ import android.app.Fragment;
 import java.util.UUID;
 
 public class TitleOtvetActivity extends SingleFragmentActivity {
+
     @Override
     protected Fragment createFragment() {
         UUID temId=(UUID)getIntent()
