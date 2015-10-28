@@ -12,21 +12,21 @@ import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.widget.TextView;
 
-import java.util.UUID;
 
 public class TitleOtvetFragment extends Fragment {
     private WebView mWebView;
     private TextView mText;
-    public static final String EXTRA_TEM_ID =
-            "com.just_app.gos.tem_id";
-    public static final String EXTRA_PREDMET_ID =
-            "com.just_app.gos.predmet_id";
-    private   Otvet mOtvet;
+    public static final String EXTRA_QUESTION_NAME =
+            "com.just_app.gos.question_name";
+    public static final String EXTRA_QUESTION_ANSWER =
+            "com.just_app.gos.question_answer";
+    private  String mAnswer;
+    private  String mName;
 
-    public static TitleOtvetFragment newInstance(UUID temId, String mNamePredmet) {
+    public static TitleOtvetFragment newInstance(String mQuestionAnswer,String mQuestionName) {
         Bundle args = new Bundle();
-        args.putSerializable(EXTRA_TEM_ID, temId);
-        args.putSerializable(EXTRA_PREDMET_ID,mNamePredmet);
+        args.putSerializable(EXTRA_QUESTION_ANSWER, mQuestionAnswer);
+        args.putSerializable(EXTRA_QUESTION_NAME, mQuestionName);
         TitleOtvetFragment fragment = new TitleOtvetFragment();
         fragment.setArguments(args);
         return fragment;
@@ -35,10 +35,8 @@ public class TitleOtvetFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        String mName=(String) getArguments().getSerializable(EXTRA_PREDMET_ID);
-        UUID temId = (UUID)getArguments().getSerializable(EXTRA_TEM_ID);
-        mOtvet=OtvetBank.get(getActivity()).getOtvets(temId);
-
+        mAnswer=(String) getArguments().getSerializable(EXTRA_QUESTION_ANSWER);
+        mName=(String) getArguments().getSerializable(EXTRA_QUESTION_NAME);
     }
 
     @Override
@@ -47,10 +45,9 @@ public class TitleOtvetFragment extends Fragment {
         View v = inflater.inflate(R.layout.title_otvet_fragment, container, false);
 
         mWebView = (WebView)v.findViewById(R.id.otvet_title);
-        mText = (TextView)v.findViewById(R.id.ot_title);
-//       mText.setText(mOtvet.getmTitle());
-       // mText.setText(mDesc.getmDesc());
-      // mWebView.loadUrl(mDesc.toString());
+        mText = (TextView)v.findViewById(R.id.name_question);
+        mText.setText(mName);
+      mWebView.loadUrl(mAnswer);
         return v;
     }
 }

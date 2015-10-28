@@ -4,6 +4,17 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:id="@+id/name_question"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp"
+        android:textSize="14sp"/>
+
     <WebView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -13,10 +24,5 @@
         android:paddingRight="4dp"
         android:paddingTop="4dp"
         android:textSize="18sp"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ot_title"/>
 
 </LinearLayout>

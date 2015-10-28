@@ -3,9 +3,7 @@ package com.just_app.gos;
 
 import android.app.Fragment;
 import android.content.Intent;
-import android.content.res.AssetManager;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,9 +15,9 @@ import java.io.IOException;
 import java.io.InputStream;
 
 public class PredmetFragment extends Fragment {
-    private Button mButton1;
-    private Button mButton2;
-    private Button mButton3;
+    int[] bt_ids;
+    Button[] bt_array;
+    private Button mButton1,mButton2,mButton3;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -31,9 +29,10 @@ public class PredmetFragment extends Fragment {
                              Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_predmet,container,false);
 
-        mButton1=(Button)v.findViewById(R.id.predmet_1);
-        mButton2=(Button)v.findViewById(R.id.predmet_2);
-        mButton3=(Button)v.findViewById(R.id.predmet_3);
+        bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3};
+
+        bt_array= new Button[]{mButton1,mButton2,mButton3};
+        int len = bt_array.length;
 
       View.OnClickListener onClickListener = new View.OnClickListener() {
           @Override
@@ -41,7 +40,7 @@ public class PredmetFragment extends Fragment {
               switch (v.getId()){
                   case R.id.predmet_1:
                       Intent i = new Intent(getActivity(),OtvetListActivity.class);
-                      i.putExtra(OtvetListFragment.EXTRA_FILENAME,"math.xml" );
+                      i.putExtra(OtvetListFragment.EXTRA_FILENAME,"matan.xml" );
                       startActivity(i);
                       break;
                   case R.id.predmet_2:
@@ -58,10 +57,10 @@ public class PredmetFragment extends Fragment {
           }
       };
 
-        mButton1.setOnClickListener(onClickListener);
-        mButton2.setOnClickListener(onClickListener);
-        mButton3.setOnClickListener(onClickListener);
-
+        for(int i=0;i<len;i++){
+            bt_array[i]=(Button)v.findViewById(bt_ids[i]);
+            bt_array[i].setOnClickListener(onClickListener);
+        }
         return v;
     }
 }
