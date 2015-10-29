@@ -1,0 +1,92 @@
+﻿{
+  "name": "matan",
+  "questions": [
+    {
+      "question": "Теорема Вейерштрасса о существовании предела у монотонной ограниченной последовательности",
+      "answer": "file:///android_asset/matan/1.htm"
+    },
+    {
+      "question": "Теорема Вейерштрасса о достижимости точных граней непрерывной на отрезке функции",
+      "answer": "file:///android_asset/matan/2.htm"
+    },
+    {
+      "question": "Теорема Больцано-Коши о промежуточных значениях непрерывной на отрезке функции",
+      "answer": "file:///android_asset/matan/3.htm"
+    },
+      {
+      "question": "Теорема о среднем Коши (формула Коши)",
+      "answer": "file:///android_asset/matan/4.htm"
+    }, 
+    {
+      "question": "Определение равномерно непрерывной функции. Теорема Кантора",
+      "answer": "file:///android_asset/matan/5.htm"
+    }, 
+    {
+      "question": "Правило Лопиталя",
+      "answer": "file:///android_asset/matan/6.htm"
+    },
+       {
+      "question": "Определение интеграла Римана от функции на отрезке. Необходимое условие интегрируемости",
+      "answer": "file:///android_asset/matan/7.htm"
+    }, 
+    {
+      "question": "Теорема о существовании интеграла от непрерывной на отрезке функции",
+      "answer": "file:///android_asset/matan/8.htm"
+    },   {
+      "question": "Теорема о среднем значении для определенного интеграла",
+      "answer": "file:///android_asset/matan/9.htm"
+    }, 
+    {
+      "question": "Определение числового ряда. Критерий Коши сходимости ряда",
+      "answer": "file:///android_asset/matan/10.htm"
+    },
+       {
+      "question": "Признак сравнения для рядов с неотрицательными членами",
+      "answer": "file:///android_asset/matan/11.htm"
+    }, 
+    {
+      "question": "Признак Даламбера сходимости числового ряда",
+      "answer": "file:///android_asset/matan/12.htm"
+    },
+       {
+      "question": "Радикальный признак Коши сходимости числового ряда",
+      "answer": "file:///android_asset/matan/13.htm"
+    }, 
+    {
+      "question": "Ряд Лейбница",
+      "answer": "file:///android_asset/matan/14.htm"
+    },
+       {
+      "question": "Производная по направлению",
+      "answer": "file:///android_asset/matan/15.htm"
+    }, 
+    {
+      "question": "Определение равномерной сходимости последовательности функций. Критерий равномерной сходимости",
+      "answer": "file:///android_asset/matan/16.htm"
+    },
+     {
+      "question": "Теорема о пределе равномерно сходящейся последовательности не-прерывных функций",
+      "answer": "file:///android_asset/matan/17.htm"
+    },
+     {
+      "question": "Определение степенного ряда. Первая теорема Абеля",
+      "answer": "file:///android_asset/matan/18.htm"
+    },
+     {
+      "question": "Определение несобственных интегралов. Критерий Коши сходимости интегралов",
+      "answer": "file:///android_asset/matan/19.htm"
+    },
+     {
+      "question": "Признак сравнения для несобственных интегралов от неотрицательных функций",
+      "answer": "file:///android_asset/matan/20.htm"
+    },
+    {
+      "question": "Определение равномерной сходимости несобственных интегралов, зависящих от параметра. Признак Вейерштрасса",
+      "answer": "file:///android_asset/matan/21.htm"
+    },
+    {
+      "question": "Область определения бета и гамма функций Эйлера",
+      "answer": "file:///android_asset/matan/22.htm"
+    }
+  ]
+}
