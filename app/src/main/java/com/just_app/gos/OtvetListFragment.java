@@ -22,8 +22,6 @@ public class OtvetListFragment extends ListFragment {
             "com.just_app.gos.answer_1";
     private  Subject mSubject;
 
-
-
     public static OtvetListFragment newInstance(String filename) {
         Bundle args = new Bundle();
         args.putSerializable(EXTRA_FILENAME, filename);

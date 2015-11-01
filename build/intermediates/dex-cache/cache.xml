@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\classes-470e2500ebbe403db70351da35920b542d5b0ddf.jar" />
-    </item>
-    <item
         jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -16,25 +9,32 @@
         <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\classes-e9c746c54468956c2f882aaf33e78d6b3d4b6895.jar" />
     </item>
     <item
-        jar="C:\Users\Администратор\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.1\b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c\jackson-core-2.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
-        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.1-eddf97337d814203dd83e7af40e01a978c5fe147.jar" />
-    </item>
-    <item
-        jar="C:\Users\Администратор\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.1\55605135bd7b836612e0bba7037c9669f6ccf89f\jackson-annotations-2.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
-        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.1-cde6006256a3e97d9778b36c34044cd6b588d7aa.jar" />
-    </item>
-    <item
-        jar="C:\Users\Администратор\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.1\f07c773f7b3a03c3801d405cadbdc93f7548e321\jackson-databind-2.4.1.jar"
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.1\f07c773f7b3a03c3801d405cadbdc93f7548e321\jackson-databind-2.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="f07c773f7b3a03c3801d405cadbdc93f7548e321">
-        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.1-d5879bc9858404b18ac73a597933225122d93eaf.jar" />
+        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.1-b5bd6965dd7562bbbac38a82887fb56ceaaf84aa.jar" />
+    </item>
+    <item
+        jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\classes-470e2500ebbe403db70351da35920b542d5b0ddf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.1\55605135bd7b836612e0bba7037c9669f6ccf89f\jackson-annotations-2.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
+        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.1-e74c283817ab0426a4f1be1f33535f2e280a8346.jar" />
+    </item>
+    <item
+        jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-eb00e826d1f9a1735e76752022a69e859b0acea6.jar" />
     </item>
     <item
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
@@ -44,11 +44,11 @@
         <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-6caa1fe4da30cf2cc1676a54cb9890359b7ae5e4.jar" />
     </item>
     <item
-        jar="C:\Android\Project\GOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.1\b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c\jackson-core-2.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-eb00e826d1f9a1735e76752022a69e859b0acea6.jar" />
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="C:\Android\Project\GOS\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.1-0656e0e6c2f4009c25948d26529852e4aa787640.jar" />
     </item>
 
 </items>

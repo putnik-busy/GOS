@@ -39,19 +39,19 @@ public class PredmetFragment extends Fragment {
           public void onClick(View v) {
               switch (v.getId()){
                   case R.id.predmet_1:
-                      Intent i = new Intent(getActivity(),OtvetListActivity.class);
-                      i.putExtra(OtvetListFragment.EXTRA_FILENAME,"matan.xml" );
-                      startActivity(i);
+                      Intent p1 = new Intent(getActivity(),OtvetListActivity.class);
+                      p1.putExtra(OtvetListFragment.EXTRA_FILENAME, "matan.xml");
+                      startActivity(p1);
                       break;
                   case R.id.predmet_2:
-                      Intent j = new Intent(getActivity(),OtvetListActivity.class);
-                      //j.putExtra(OtvetListFragment.EXTRA_ANSWER_ID, R.id.predmet_2);
-                      startActivity(j);
+                      Intent p2 = new Intent(getActivity(),OtvetListActivity.class);
+                      p2.putExtra(OtvetListFragment.EXTRA_FILENAME, "algebra.xml");
+                      startActivity(p2);
                       break;
                   case R.id.predmet_3:
-                      Intent a = new Intent(getActivity(),OtvetListActivity.class);
-                      //a.putExtra(OtvetListFragment.EXTRA_ANSWER_ID,R.id.predmet_3);
-                      startActivity(a);
+                      Intent p3 = new Intent(getActivity(),OtvetListActivity.class);
+                      p3.putExtra(OtvetListFragment.EXTRA_FILENAME,"inform.xml" );
+                      startActivity(p3);
                       break;
               }
           }
