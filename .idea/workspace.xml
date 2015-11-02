@@ -23,443 +23,33 @@
   <component name="ChangeListManager">
     <list id="238cb85d-f15f-4787-a094-f5e56cf0672d" name="Default" comment="new ListOtvet" />
     <list default="true" id="5e2659ae-1740-4ef9-8190-6b56bf75374b" name="new Attaylist" comment="сделал до 8 инфор">
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\5.files\image001.wmz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\5.files\image002.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\6.files\image069.wmz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\7.files\image003.wmz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\7.files\image004.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\7.files\image021.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\matan\8.files\image018.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/19.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/19.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image001.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image002.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image002.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/19.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/19.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image003.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/19.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/19.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image005.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image007.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image009.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image011.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image013.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image015.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image017.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image017.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image017.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image017.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image017.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image017.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image017.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image017.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image017.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image017.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image018.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image018.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image018.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image018.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image018.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image018.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image018.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image018.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image018.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image018.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image019.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image019.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image019.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image019.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image019.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image019.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image020.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image020.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image020.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image020.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image020.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/image020.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image020.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image020.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image020.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image020.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image020.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image020.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image021.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image021.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image021.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image021.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image021.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image021.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image021.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image021.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image022.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/image022.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image022.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image022.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image022.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image022.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image022.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image022.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image022.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image022.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image023.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image023.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image023.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image023.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image023.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image023.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image023.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image023.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image024.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/image024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image024.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image024.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/image024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image024.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image025.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image025.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image025.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image025.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image025.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image025.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image026.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image026.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image026.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image026.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image026.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/image026.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image027.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image027.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image028.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image028.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image029.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image029.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image030.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image030.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image031.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image031.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image032.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image032.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image033.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image033.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image034.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image034.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image035.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image035.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image036.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image036.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image037.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image037.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image038.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image038.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image039.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image039.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image040.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image040.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image041.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image041.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image042.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image042.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image043.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image043.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image043.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image043.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image044.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/image044.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image044.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image044.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image045.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image045.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image046.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image046.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image047.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image047.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image048.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image048.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image049.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image049.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image050.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image050.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image051.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image051.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image052.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image052.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image053.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image053.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image054.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image054.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image055.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image055.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image056.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image056.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image057.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image057.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image058.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image058.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image059.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image059.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image060.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image060.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image061.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image061.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image062.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image062.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image063.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image063.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image064.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image064.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image065.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image065.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image066.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image066.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image067.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image067.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image068.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image068.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image070.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image070.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image071.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image071.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image072.png" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/image072.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/5.files/oledata.mso" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/5.files/oledata.mso" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/oledata.mso" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/oledata.mso" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/10.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/10.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/4.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/4.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/6.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/6.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/8.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/8.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/1.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/1.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/2.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/2.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/3.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/3.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/4.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/4.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/5.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/5.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/6.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/6.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/7.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/7.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/16.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/16.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/17.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/17.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/18.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/18.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/5.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/5.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/themedata.thmx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/1.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/1.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/10.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/10.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/16.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/16.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/17.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/17.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/18.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/18.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/19.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/19.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/2.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/2.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/3.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/3.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/4.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/4.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/4.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/4.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/4.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/4.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/5.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/5.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/5.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/5.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/6.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/6.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/6.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/6.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/7.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/7.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/8.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/8.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/OtvetListFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/OtvetListFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/1.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/10.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/10.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/2.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/3.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/4.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/4.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/5.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/6.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/6.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/7.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/8.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/8.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/algebra/9.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/1.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/1.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/2.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/2.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/3.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/3.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/4.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/4.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/5.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/5.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/6.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/6.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/7.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/7.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/10.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/11.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/12.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/13.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/14.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/15.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/16.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/16.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/17.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/17.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/18.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/18.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/20.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/21.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/22.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/3.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/4.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/5.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/5.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/6.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/7.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/8.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/matan/9.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/10.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/10.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/11.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/11.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/12.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/12.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/13.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/13.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/14.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/14.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/15.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/15.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/8.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/8.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/9.files/themedata.thmx" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/9.files/themedata.thmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/10.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/10.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/11.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/11.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/12.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/12.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/13.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/13.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/14.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/14.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/15.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/15.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/8.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/8.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/9.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/9.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/10.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/10.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/11.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/11.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/12.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/12.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/13.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/13.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/14.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/14.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/8.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/8.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/inform/9.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/inform/9.files/filelist.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -529,7 +119,7 @@
       <file leaf-file-name="PredmetFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3063063">
+            <state vertical-scroll-proportion="0.3108108">
               <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
               <folding />
             </state>
@@ -2050,8 +1640,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="22" />
+    <option name="x" value="10" />
+    <option name="y" value="24" />
     <option name="width" value="1311" />
     <option name="height" value="674" />
   </component>
@@ -2078,19 +1668,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="GOS" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2119,24 +1706,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GOS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2183,7 +1752,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2476,12 +2044,18 @@
       <option name="project" value="LOCAL" />
       <updated>1446042008579</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="сделал до 8 инфор">
+      <created>1446409750184</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1446409750184</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="22" width="1311" height="674" extended-state="0" />
-    <editor active="true" />
+    <frame x="10" y="24" width="1311" height="674" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06563707" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2490,12 +2064,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11003861" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262548" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08880309" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08880309" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26618704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2511,6 +2084,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2878,7 +2452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55284554">
           <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2886,7 +2459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41463414">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2928,13 +2500,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.536036">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3063063">
+        <state vertical-scroll-proportion="0.3108108">
           <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
           <folding />
         </state>
