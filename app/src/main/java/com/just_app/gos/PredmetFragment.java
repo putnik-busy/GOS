@@ -17,7 +17,7 @@ import java.io.InputStream;
 public class PredmetFragment extends Fragment {
     int[] bt_ids;
     Button[] bt_array;
-    private Button mButton1,mButton2,mButton3;
+    private Button mButton1,mButton2,mButton3,mButton4,mButton5;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -29,9 +29,9 @@ public class PredmetFragment extends Fragment {
                              Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_predmet,container,false);
 
-        bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3};
+        bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3,R.id.predmet_4,R.id.predmet_5};
 
-        bt_array= new Button[]{mButton1,mButton2,mButton3};
+        bt_array= new Button[]{mButton1,mButton2,mButton3,mButton4,mButton5};
         int len = bt_array.length;
 
       View.OnClickListener onClickListener = new View.OnClickListener() {
@@ -52,6 +52,16 @@ public class PredmetFragment extends Fragment {
                       Intent p3 = new Intent(getActivity(),OtvetListActivity.class);
                       p3.putExtra(OtvetListFragment.EXTRA_FILENAME,"inform.xml" );
                       startActivity(p3);
+                      break;
+                  case R.id.predmet_4:
+                      Intent p4 = new Intent(getActivity(),OtvetListActivity.class);
+                      p4.putExtra(OtvetListFragment.EXTRA_FILENAME,"difur.xml" );
+                      startActivity(p4);
+                      break;
+                  case R.id.predmet_5:
+                      Intent p5 = new Intent(getActivity(),OtvetListActivity.class);
+                      p5.putExtra(OtvetListFragment.EXTRA_FILENAME,"diskretmat.xml" );
+                      startActivity(p5);
                       break;
               }
           }

@@ -28,5 +28,21 @@
         android:layout_margin="16dp"
         style="?android:segmentedButtonStyle" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/predmet_4"
+        android:text="@string/predmet_4"
+        android:layout_margin="16dp"
+        style="?android:segmentedButtonStyle" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/predmet_5"
+        android:text="@string/predmet_5"
+        android:layout_margin="16dp"
+        style="?android:segmentedButtonStyle" />
+
 
 </LinearLayout>

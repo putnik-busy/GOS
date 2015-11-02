@@ -4,9 +4,9 @@
     <string name="predmet_1">Математический анализ</string>
     <string name="predmet_2">Алгебра и геометрия</string>
     <string name="predmet_3">Информатика</string>
-    <string name="predmet_4">Дифферен. урав.</string>
-    <string name="predmet_5">Диск. матем.</string>
-    <string name="predmet_6">ТВ и МС</string>
+    <string name="predmet_4">Дифференциальные уравнения</string>
+    <string name="predmet_5">Дискретная математика</string>
+    <string name="predmet_6">Теория вероятностей и математическая статистика</string>
     <string name="predmet_7">СППО</string>
     <string name="predmet_8">БД и ЭС</string>
     <string name="predmet_9">ЯП и методы транс.</string>
@@ -20,96 +20,4 @@
     <string name="title_activity_predmet">PredmetActivity</string>
     <string name="predmet_title">Предмет</string>
 
-    //Алгебра и геометрия
-    <string-array name="algebra">
-        <item>1)Совместность систем линейных уравнений.</item>
-        <item>2)Связь общего решения неоднородной системы с общим решением приведенной системы.</item>
-        <item>3)Теорема Крамера.</item>
-        <item>4)Линейная зависимость систем n-мерных строк (столбцов).</item>
-        <item>5)Число n-мерных строк (столбцов) в эквивалентных системах.</item>
-        <item>6)Конечномерное векторное пространство, база и размерность, матрица перехода от одной базы к другой.</item>
-        <item>7)Линейные операторы, матрица линейного оператора в данной базе, связь между матрицами линейного оператора в разных базах.</item>
-        <item>8)Собственные векторы и собственные значения линейного оператора в разных базах.</item>
-        <item>9)Евклидово пространство, ортонормированные базы, ортогональность матрицы перехода от одной ортонормированной базы к другой.</item>
-        <item>10) Ортогональные и симметрические операторы, их матрицы в орто-нормированной базе, лемма о характеристических корнях вещественной симметрической матрицы.</item>
-    </string-array>
-
-    //Информатика
-    <string-array name="inform">
-        <item>1)Основные понятия процедурного программирования.</item>
-        <item>2)Пользовательские процедуры как аппарат технологии программирования.</item>
-        <item>3)Типы данных и их классификация (на примере языка Паскаль).</item>
-        <item>4)Алгоритмы вычисления логических формул.</item>
-        <item>5)Алгоритмы поиска в последовательностях.</item>
-        <item>6)Однопроходные алгоритмы объединения (слияния), пересечения и разности массивов.</item>
-        <item>7)Алгоритмы сортировки массивов.</item>
-        <item>8)Реализация операторов и типов данных средствами низкого уровня.</item>
-        <item>9)Списки, стеки, очереди и их применение.</item>
-        <item>10)Алгоритм полного перебора на примере задачи о перечислении всех правильных раскрасок графа.</item>
-        <item>11)Алгоритм перебора с возвратом на примере задачи о перечислении всех правильных раскрасок графа.</item>
-        <item>12)Обход дерева "в глубину" (с использованием стека) и "в ширину" (с использованием очереди).</item>
-        <item>13)Алгоритмы обработки арифметических выражений.</item>
-        <item>14)Определение и реализация основных операций обработки текстов.</item>
-        <item>15)Нахождение текста результата операции по тексту ее аргументов на примере двух способов вычисления суммы натуральных чисел.</item>
-    </string-array>
-
-
-//Ответы
-
-    //ответы матан
-    <string-array name="matan_title">
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\3.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\4.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\5.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\6.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\7.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\8.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\9.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\10.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\11.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\12.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\13.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\14.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\15.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\16.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\17.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\18.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\19.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\20.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\21.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\matan\22.htm"</item>
-    </string-array>
-
-    //ответы алгебра
-    <string-array name="algebra_title">
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\1.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\2.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\3.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\4.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\5.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\6.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\7.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\8.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\9.htm"</item>
-    <item>"C:\Android\Project\GOS\app\src\main\assets\algebra\10.htm"</item>
-    </string-array>
-
-    //ответы информатика
-    <string-array name="inform_title">
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\1.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\2.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\3.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\4.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\5.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\6.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\7.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\8.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\9.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\10.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\11.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\12.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\13.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\14.htm"</item>
-        <item>"C:\Android\Project\GOS\app\src\main\assets\inform\15.htm"</item>
-    </string-array>
 </resources>
