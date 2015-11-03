@@ -1,0 +1,31 @@
+﻿{
+"name": "difur",
+"questions": [{
+"question": "Уравнения в полных дифференциалах. Интегрирующий множитель",
+"answer": "file:///android_asset/difur/1.htm"
+},
+{
+"question": "Теорема существования и единственности решения задачи Коши",
+"answer": "file:///android_asset/difur/2.htm"
+},
+{
+"question": "Особые решения дифференциальных уравнений",
+"answer": "file:///android_asset/difur/3.htm"
+},
+{
+"question": "Фундаментальная система решений линейного дифференциального уравнения",
+"answer": "file:///android_asset/difur/4.htm"
+},
+{
+"question": "Метод вариации произвольных постоянных",
+"answer": "file:///android_asset/difur/5.htm"
+},
+{
+"question": "Краевые задачи. Метод функции Грина",
+"answer": "file:///android_asset/difur/6.htm"
+},
+{
+"question": "Линейные уравнения с частными производными 1-го порядка",
+"answer": "file:///android_asset/difur/7.htm"
+}]
+}

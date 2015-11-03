@@ -1,0 +1,63 @@
+﻿{
+"name": "inform",
+"questions": [{
+"question": "Основные понятия процедурного программирования",
+"answer": "file:///android_asset/inform/1.htm"
+},
+{
+"question": "Пользовательские процедуры как аппарат технологии программирования",
+"answer": "file:///android_asset/inform/2.htm"
+},
+{
+"question": "Типы данных и их классификация (на примере языка Паскаль)",
+"answer": "file:///android_asset/inform/3.htm"
+},
+{
+"question": "Алгоритмы вычисления логических формул",
+"answer": "file:///android_asset/inform/4.htm"
+},
+{
+"question": "Алгоритмы поиска в последовательностях",
+"answer": "file:///android_asset/inform/5.htm"
+},
+{
+"question": "Однопроходные алгоритмы объединения (слияния), пересечения и разности массивов",
+"answer": "file:///android_asset/inform/6.htm"
+},
+{
+"question": "Алгоритмы сортировки массивов",
+"answer": "file:///android_asset/inform/7.htm"
+},
+{
+"question": "Реализация операторов и типов данных средствами низкого уровня",
+"answer": "file:///android_asset/inform/8.htm"
+},
+{
+"question": "Списки, стеки, очереди и их применение",
+"answer": "file:///android_asset/inform/9.htm"
+},
+{
+"question": "Алгоритм полного перебора на примере задачи о перечислении всех правильных раскрасок графа",
+"answer": "file:///android_asset/inform/10.htm"
+},
+{
+"question": "Алгоритм перебора с возвратом на примере задачи о перечислении всех правильных раскрасок графа",
+"answer": "file:///android_asset/inform/11.htm"
+},
+{
+"question": "Обход дерева <<в глубину>> (с использованием стека) и <<в ширину>> (с использованием очереди)",
+"answer": "file:///android_asset/inform/12.htm"
+},
+{
+"question": "Алгоритмы обработки арифметических выражений",
+"answer": "file:///android_asset/inform/13.htm"
+},
+{
+"question": "Определение и реализация основных операций обработки текстов",
+"answer": "file:///android_asset/inform/14.htm"
+},
+{
+"question": "Нахождение текста результата операции по тексту ее аргументов на примере двух способов вычисления суммы натуральных чисел",
+"answer": "file:///android_asset/inform/15.htm"
+}]
+}
