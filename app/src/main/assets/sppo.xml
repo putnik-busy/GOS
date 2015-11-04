@@ -1,0 +1,23 @@
+﻿{
+"name": "sppo",
+"questions": [{
+"question": "Назначение, основные функции и структура операционных систем",
+"answer": "file:///android_asset/sppo/1.htm"
+},
+{
+"question": "Назначение, основные функции и структура файловых систем",
+"answer": "file:///android_asset/sppo/2.htm"
+},
+{
+"question": "Назначение и возможности текстовых и гипертекстовых редакторов",
+"answer": "file:///android_asset/terver/3.htm"
+},
+{
+"question": "Системы управления базами данных и принципы их работы на примере MS ACCESS",
+"answer": "file:///android_asset/terver/4.htm"
+},
+{
+"question": "Программные средства для работы в глобальной компьютерной сети INTERNET",
+"answer": "file:///android_asset/terver/5.htm"
+}]
+}

@@ -7,14 +7,13 @@
     <string name="predmet_4">Дифференциальные уравнения</string>
     <string name="predmet_5">Дискретная математика</string>
     <string name="predmet_6">Теория вероятностей и математическая статистика</string>
-    <string name="predmet_7">СППО</string>
-    <string name="predmet_8">БД и ЭС</string>
-    <string name="predmet_9">ЯП и методы транс.</string>
-    <string name="predmet_10">УМФ</string>
+    <string name="predmet_7">Системное и прикладное программное обеспечение</string>
+    <string name="predmet_8">Базы данных и экспертные системы</string>
+    <string name="predmet_9">Языки программирования и методы трансляции</string>
+    <string name="predmet_10">Уравнения математической физики</string>
     <string name="predmet_11">Методы оптимизации</string>
-    <string name="predmet_12">Теор.игр и иссл. опер.</string>
-    <string name="predmet_13">Числ. методы</string>
-    <string name="predmet_14">Числ. методы</string>
+    <string name="predmet_12">Теория игр и исследование операций</string>
+    <string name="predmet_13">Численные методы</string>
 
     //другая тема
     <string name="title_activity_predmet">PredmetActivity</string>

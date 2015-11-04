@@ -17,7 +17,7 @@ import java.io.InputStream;
 public class PredmetFragment extends Fragment {
     int[] bt_ids;
     Button[] bt_array;
-    private Button mButton1,mButton2,mButton3,mButton4,mButton5;
+    private Button mButton1,mButton2,mButton3,mButton4,mButton5,mButton6,mButton7;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -29,9 +29,10 @@ public class PredmetFragment extends Fragment {
                              Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_predmet,container,false);
 
-        bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3,R.id.predmet_4,R.id.predmet_5};
+        bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3,R.id.predmet_4,
+                R.id.predmet_5,R.id.predmet_6,R.id.predmet_7};
 
-        bt_array= new Button[]{mButton1,mButton2,mButton3,mButton4,mButton5};
+        bt_array= new Button[]{mButton1,mButton2,mButton3,mButton4,mButton5,mButton6,mButton7};
         int len = bt_array.length;
 
       View.OnClickListener onClickListener = new View.OnClickListener() {
@@ -62,6 +63,16 @@ public class PredmetFragment extends Fragment {
                       Intent p5 = new Intent(getActivity(),OtvetListActivity.class);
                       p5.putExtra(OtvetListFragment.EXTRA_FILENAME,"diskretmat.xml" );
                       startActivity(p5);
+                      break;
+                  case R.id.predmet_6:
+                      Intent p6 = new Intent(getActivity(),OtvetListActivity.class);
+                      p6.putExtra(OtvetListFragment.EXTRA_FILENAME,"terver.xml" );
+                      startActivity(p6);
+                      break;
+                  case R.id.predmet_7:
+                      Intent p7 = new Intent(getActivity(),OtvetListActivity.class);
+                      p7.putExtra(OtvetListFragment.EXTRA_FILENAME,"sppo.xml" );
+                      startActivity(p7);
                       break;
               }
           }
