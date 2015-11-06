@@ -1,0 +1,19 @@
+﻿{
+"name": "bd",
+"questions": [{
+"question": "Типы таблиц. Совместное использование таблиц",
+"answer": "file:///android_asset/bd/1.htm"
+},
+{
+"question": "Назначение, основные функции и структура файловых систем",
+"answer": "file:///android_asset/bd/2.htm"
+},
+{
+"question": "Назначение и возможности текстовых и гипертекстовых редакторов",
+"answer": "file:///android_asset/bd/3.htm"
+},
+{
+"question": "Системы управления базами данных и принципы их работы на примере MS ACCESS",
+"answer": "file:///android_asset/bd/4.htm"
+}]
+}

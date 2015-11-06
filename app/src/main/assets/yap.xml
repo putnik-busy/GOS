@@ -1,0 +1,31 @@
+﻿{
+"name": "yap",
+"questions": [{
+"question": "Языки, грамматики и их классификация. Примеры контекстно-свободных грамматик",
+"answer": "file:///android_asset/yap/1.htm"
+},
+{
+"question": "Трансляция арифметических выражений",
+"answer": "file:///android_asset/yap/2.htm"
+},
+{
+"question": "Классы. Свойства и методы, защита элементов классов. Создание и уничтожение объектов",
+"answer": "file:///android_asset/yap/3.htm"
+},
+{
+"question": "Управление динамической памятью",
+"answer": "file:///android_asset/yap/4.htm"
+},
+{
+"question": "Технология создания программ и комплексов. Визуальное програм-мирование",
+"answer": "file:///android_asset/yap/5.htm"
+},
+{
+"question": "Препроцессор и его основные возможности",
+"answer": "file:///android_asset/yap/6.htm"
+},
+{
+"question": "Адреса, указатели, ссылки. Адресная арифметика",
+"answer": "file:///android_asset/yap/7.htm"
+}]
+}
