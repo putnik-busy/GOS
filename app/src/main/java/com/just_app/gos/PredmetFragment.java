@@ -17,7 +17,8 @@ import java.io.InputStream;
 public class PredmetFragment extends Fragment {
     int[] bt_ids;
     Button[] bt_array;
-    private Button mButton1,mButton2,mButton3,mButton4,mButton5,mButton6,mButton7;
+    private Button mButton1,mButton2,mButton3,mButton4,mButton5,mButton6,mButton7,
+            mButton8,mButton9,mButton10;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -30,9 +31,11 @@ public class PredmetFragment extends Fragment {
         View v = inflater.inflate(R.layout.fragment_predmet,container,false);
 
         bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3,R.id.predmet_4,
-                R.id.predmet_5,R.id.predmet_6,R.id.predmet_7};
+                R.id.predmet_5,R.id.predmet_6,R.id.predmet_7,R.id.predmet_8,R.id.predmet_9,
+                R.id.predmet_10};
 
-        bt_array= new Button[]{mButton1,mButton2,mButton3,mButton4,mButton5,mButton6,mButton7};
+        bt_array= new Button[]{mButton1,mButton2,mButton3,mButton4,mButton5,
+                mButton6,mButton7,mButton8,mButton9,mButton10};
         int len = bt_array.length;
 
       View.OnClickListener onClickListener = new View.OnClickListener() {
@@ -73,6 +76,21 @@ public class PredmetFragment extends Fragment {
                       Intent p7 = new Intent(getActivity(),OtvetListActivity.class);
                       p7.putExtra(OtvetListFragment.EXTRA_FILENAME,"sppo.xml" );
                       startActivity(p7);
+                      break;
+                  case R.id.predmet_8:
+                      Intent p8 = new Intent(getActivity(),OtvetListActivity.class);
+                      p8.putExtra(OtvetListFragment.EXTRA_FILENAME,"bd.xml" );
+                      startActivity(p8);
+                      break;
+                  case R.id.predmet_9:
+                      Intent p9 = new Intent(getActivity(),OtvetListActivity.class);
+                      p9.putExtra(OtvetListFragment.EXTRA_FILENAME,"yap.xml" );
+                      startActivity(p9);
+                      break;
+                  case R.id.predmet_10:
+                      Intent p10 = new Intent(getActivity(),OtvetListActivity.class);
+                      p10.putExtra(OtvetListFragment.EXTRA_FILENAME,"umf.xml" );
+                      startActivity(p10);
                       break;
               }
           }

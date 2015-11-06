@@ -10,61 +10,86 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/predmet_1"
-        android:text="@string/predmet_1"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        <Button
+            android:id="@+id/predmet_1"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_1" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/predmet_2"
-        android:text="@string/predmet_2"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        <Button
+            android:id="@+id/predmet_2"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_2" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/predmet_3"
-        android:text="@string/predmet_3"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        <Button
+            android:id="@+id/predmet_3"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_3" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/predmet_4"
-        android:text="@string/predmet_4"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        <Button
+            android:id="@+id/predmet_4"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_4" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/predmet_5"
-        android:text="@string/predmet_5"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        <Button
+            android:id="@+id/predmet_5"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_5" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/predmet_6"
-        android:text="@string/predmet_6"
-        android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        <Button
+            android:id="@+id/predmet_6"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_6" />
 
-    <Button
+        <Button
+            android:id="@+id/predmet_7"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_7" />
+
+        <Button
+        android:id="@+id/predmet_8"
+        style="?android:segmentedButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/predmet_7"
-        android:text="@string/predmet_7"
         android:layout_margin="16dp"
-        style="?android:segmentedButtonStyle" />
+        android:text="@string/predmet_8" />
+
+        <Button
+            android:id="@+id/predmet_9"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_9" />
+
+        <Button
+            android:id="@+id/predmet_10"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_10" />
+
 
     </LinearLayout>
 </ScrollView>
