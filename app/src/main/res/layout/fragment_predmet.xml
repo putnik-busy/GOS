@@ -90,6 +90,14 @@
             android:layout_margin="16dp"
             android:text="@string/predmet_10" />
 
+        <Button
+            android:id="@+id/predmet_11"
+            style="?android:segmentedButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="@string/predmet_11" />
+
 
     </LinearLayout>
 </ScrollView>

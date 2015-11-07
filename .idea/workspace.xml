@@ -18,15 +18,123 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list id="238cb85d-f15f-4787-a094-f5e56cf0672d" name="Default" comment="new ListOtvet" />
-    <list default="true" id="5e2659ae-1740-4ef9-8190-6b56bf75374b" name="new Attaylist" comment="сделал до 3 вопроса умф">
+    <list default="true" id="5e2659ae-1740-4ef9-8190-6b56bf75374b" name="new Attaylist" comment="сделал до 2 вопроса мо">
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image003.wmz" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image004.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image005.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image006.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image007.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image008.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image009.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image010.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image011.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image012.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image013.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image014.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image015.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image016.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image017.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image018.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image019.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image020.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\umf\6.files\image024.wmz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image001.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image001.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image001.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image001.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image001.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image002.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image002.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image002.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image002.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image002.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image002.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/image002.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/image002.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image002.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image002.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image003.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image003.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image003.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image003.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image003.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image004.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image004.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image004.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image004.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image004.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image004.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image004.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image004.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image005.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image006.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image006.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image006.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image006.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image006.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image006.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image006.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image006.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image007.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image007.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image007.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image007.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image007.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image008.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image008.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image008.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image008.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image008.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/image008.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image008.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image008.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image009.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image009.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image009.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image009.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image010.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/image010.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image010.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image010.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image010.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image010.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image011.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image011.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image011.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image012.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image012.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image012.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image012.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image013.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image013.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image013.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image014.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image014.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image014.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image014.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image015.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image016.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image016.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image016.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/image016.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image017.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image017.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image018.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image018.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image019.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image019.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image020.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image020.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image021.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image021.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image022.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image022.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/image023.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/image023.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image023.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image023.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image024.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image024.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image025.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image025.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image026.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image026.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image027.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image027.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image028.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image028.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image029.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image029.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image030.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image030.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image031.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image031.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image032.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image032.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image033.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image033.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image034.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image034.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image035.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image035.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image036.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image036.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image037.png" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image037.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image038.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/image038.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/oledata.mso" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/oledata.mso" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/6.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/6.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/3.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/4.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/5.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/6.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/umf/7.files/filelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GOS.iws" />
@@ -95,9 +203,12 @@
       <file leaf-file-name="PredmetFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7285714">
-              <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.56398106">
+              <caret line="96" column="71" selection-start-line="96" selection-start-column="71" selection-end-line="96" selection-end-column="71" />
+              <folding>
+                <element signature="e#1379#4579#0" expanded="true" />
+                <element signature="e#4578#4579#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1580,9 +1691,10 @@
         <option value="$PROJECT_DIR$/app/src/main/assets/difur.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/sppo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/umf.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/assets/umf.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/mo.xml" />
       </list>
     </option>
   </component>
@@ -1625,6 +1737,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -1724,8 +1838,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -2086,7 +2198,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262548" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13513513" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13127413" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26618704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2125,7 +2237,8 @@
     <MESSAGE value="сделал до 3 вопроса дифур" />
     <MESSAGE value="сделал до 6 вопроса тервер" />
     <MESSAGE value="сделал до 3 вопроса умф" />
-    <option name="LAST_COMMIT_MESSAGE" value="сделал до 3 вопроса умф" />
+    <MESSAGE value="сделал до 2 вопроса мо" />
+    <option name="LAST_COMMIT_MESSAGE" value="сделал до 2 вопроса мо" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2138,13 +2251,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../sdk/sources/android-23/android/webkit/WebView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.862069">
-          <caret line="902" column="59" selection-start-line="902" selection-start-column="59" selection-end-line="902" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../sdk/sources/android-23/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33262712">
@@ -2320,22 +2426,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/SingleFragmentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05764967">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_tem.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36255923">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/TitleOtvetActivity.java">
@@ -2366,14 +2465,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/title_otvet_fragment.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80588233">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetActivity.java">
@@ -2387,7 +2486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55284554">
           <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2395,7 +2493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41463414">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2454,9 +2551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2484,17 +2578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3478261">
-          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/OtvetListFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2513,11 +2596,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7826087">
+          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+          <folding>
+            <element signature="e#646#665#0" expanded="true" />
+            <element signature="e#939#958#0" expanded="true" />
+            <element signature="e#1232#1251#0" expanded="true" />
+            <element signature="e#1525#1544#0" expanded="true" />
+            <element signature="e#1818#1837#0" expanded="true" />
+            <element signature="e#2111#2130#0" expanded="true" />
+            <element signature="e#2404#2423#0" expanded="true" />
+            <element signature="e#2673#2692#0" expanded="true" />
+            <element signature="e#2966#2985#0" expanded="true" />
+            <element signature="e#3260#3280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/SingleFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05952381">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/mo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31516588">
+          <caret line="11" column="138" selection-start-line="11" selection-start-column="138" selection-end-line="11" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7285714">
-          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.56398106">
+          <caret line="96" column="71" selection-start-line="96" selection-start-column="71" selection-end-line="96" selection-end-column="71" />
+          <folding>
+            <element signature="e#1379#4579#0" expanded="true" />
+            <element signature="e#4578#4579#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
