@@ -23,67 +23,13 @@
   <component name="ChangeListManager">
     <list id="238cb85d-f15f-4787-a094-f5e56cf0672d" name="Default" comment="new ListOtvet" />
     <list default="true" id="5e2659ae-1740-4ef9-8190-6b56bf75374b" name="new Attaylist" comment="сделал до 2 вопроса мо">
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image002.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image005.wmz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image006.wmz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image008.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image012.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image015.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image016.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image017.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\2.files\image018.wmz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\3.files\image003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\4.files\image003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\4.files\image010.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\4.files\image011.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\5.files\image003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\5.files\image010.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Android\Project\GOS\app\src\main\assets\mo\5.files\image014.emz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/3.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/3.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image004.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image004.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/3.files/image005.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/3.files/image005.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image005.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image005.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image005.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image005.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image006.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image006.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image007.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image007.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image007.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image007.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image007.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image007.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image008.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image008.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image009.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image009.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image009.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image009.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image009.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image009.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image010.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image010.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image012.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image012.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image013.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image013.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image013.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image013.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image013.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image013.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image014.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/image014.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image014.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image014.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image015.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image015.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image015.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/image015.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image016.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image016.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image017.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image017.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image018.png" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image018.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image019.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/image019.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/oledata.mso" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/oledata.mso" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/3.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.htm" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/2.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/3.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/3.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/4.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/filelist.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/mo/5.files/filelist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_predmet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -153,12 +99,9 @@
       <file leaf-file-name="PredmetFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91071427">
+            <state vertical-scroll-proportion="0.0">
               <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
-              <folding>
-                <element signature="e#1451#5206#0" expanded="true" />
-                <element signature="e#5205#5206#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,6 +114,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Android\key\key.jks" />
+    <option name="KEY_ALIAS" value="just-app" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -1687,10 +1634,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1721,28 +1665,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GOS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1777,18 +1699,11 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GOS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1802,6 +1717,9 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="ExportApk.ApkPath" value="C:\Android\Project\GOS\app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2144,20 +2062,19 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06563707" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26618704" sideWeight="0.5095238" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11003861" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262548" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1891892" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1891892" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26618704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26618704" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2170,6 +2087,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2596,12 +2514,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/just_app/gos/PredmetFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91071427">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
-          <folding>
-            <element signature="e#1451#5206#0" expanded="true" />
-            <element signature="e#5205#5206#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
