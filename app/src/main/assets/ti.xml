@@ -1,0 +1,15 @@
+﻿{
+"name": "ti",
+"questions": [{
+"question": "Многокритериальная оптимизация",
+"answer": "file:///android_asset/ti/1.htm"
+},
+{
+"question": "Матричные игры",
+"answer": "file:///android_asset/ti/2.htm"
+},
+{
+"question": "Кооперативные игры",
+"answer": "file:///android_asset/ti/3.htm"
+}]
+}

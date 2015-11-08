@@ -18,7 +18,7 @@ public class PredmetFragment extends Fragment {
     int[] bt_ids;
     Button[] bt_array;
     private Button mButton1,mButton2,mButton3,mButton4,mButton5,mButton6,mButton7,
-            mButton8,mButton9,mButton10,mButton11;
+            mButton8,mButton9,mButton10,mButton11,mButton12,mButton13;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -32,10 +32,10 @@ public class PredmetFragment extends Fragment {
 
         bt_ids= new int[]{R.id.predmet_1,R.id.predmet_2,R.id.predmet_3,R.id.predmet_4,
                 R.id.predmet_5,R.id.predmet_6,R.id.predmet_7,R.id.predmet_8,R.id.predmet_9,
-                R.id.predmet_10,R.id.predmet_11};
+                R.id.predmet_10,R.id.predmet_11,R.id.predmet_12,R.id.predmet_13};
 
         bt_array= new Button[]{mButton1,mButton2,mButton3,mButton4,mButton5,
-                mButton6,mButton7,mButton8,mButton9,mButton10,mButton11};
+                mButton6,mButton7,mButton8,mButton9,mButton10,mButton11,mButton12,mButton13};
         int len = bt_array.length;
 
       View.OnClickListener onClickListener = new View.OnClickListener() {
@@ -96,6 +96,16 @@ public class PredmetFragment extends Fragment {
                       Intent p11 = new Intent(getActivity(),OtvetListActivity.class);
                       p11.putExtra(OtvetListFragment.EXTRA_FILENAME,"mo.xml" );
                       startActivity(p11);
+                      break;
+                  case R.id.predmet_12:
+                      Intent p12 = new Intent(getActivity(),OtvetListActivity.class);
+                      p12.putExtra(OtvetListFragment.EXTRA_FILENAME,"ti.xml" );
+                      startActivity(p12);
+                      break;
+                  case R.id.predmet_13:
+                      Intent p13 = new Intent(getActivity(),OtvetListActivity.class);
+                      p13.putExtra(OtvetListFragment.EXTRA_FILENAME,"chm.xml" );
+                      startActivity(p13);
                       break;
               }
           }
